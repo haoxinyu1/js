@@ -1,5 +1,5 @@
 {
-	"蜘蛛": "https://raw.fastgit.org/catvod/CatVodTVSpider/master/jar/custom_spider.jar,https://hub.fastgit.org/catvod/CatVodTVSpider/blob/master/jar/custom_spider.jar ,https://raw.staticdn.net/catvod/CatVodTVSpider/master/jar/custom_spider.jar,http://pao.95318.cf/custom_spider.jar?raw=true",
+	"蜘蛛": "https://github.com/catvod/CatVodTVSpider/blob/master/jar/custom_spider.jar?raw=true",
 	“站点”：[{
 			"key": "csp_Aidi",
 			"name": "爱迪影视-爬虫",
